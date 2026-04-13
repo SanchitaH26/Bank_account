@@ -33,7 +33,7 @@ public class BankService {
    // The main entry point
    public static void main(String[] args) {
        // Create an instance of the BankAccount class
-       BankAccount acc = new BankAccount(6500);
+       BankAccount acc = new BankAccount(7500);
        
        System.out.println("Initial Balance: " + acc.getBalance());
  
